@@ -1,0 +1,18 @@
+django>=4.2
+djangorestframework>=3.14
+django-cors-headers>=4.3
+python-dotenv>=1.0
+
+# OpenAI и Claude API
+openai>=1.30
+httpx>=0.27
+
+# ЮKassa SDK
+yookassa>=2.3.2
+
+# Для RAG в будущем
+langchain>=0.1.17
+chromadb>=0.4.24
+
+# Парсинг и utils
+requests>=2.31
